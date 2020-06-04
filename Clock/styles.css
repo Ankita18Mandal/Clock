@@ -1,0 +1,14 @@
+body {
+  background-color: #121212;
+}
+
+#clock {
+  font-family: 'Orbitron', sans-serif;
+  background: radial-gradient(ellipse at center,  #0a2e38  0%, #000000 50%);
+   text-shadow: 0 0 20px rgba(10, 175, 230,  1),  0 0 20px rgba(10, 175, 230, 1);
+  color: #daf6ff; 
+  font-size: 56px;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
